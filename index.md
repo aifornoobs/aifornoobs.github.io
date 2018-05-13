@@ -1,5 +1,5 @@
 # What do we do here?
-This blog focuses on explaining the concepts of AI using simple analogous examples. 
+This blog focuses on explaining the concepts of AI and related using simple analogous examples. 
 
 AI is fast moving field. And the only way to keep up is to follow various researcher's work. For a person who has entered this field, they would feel like they got hit by a bus. 
 
@@ -8,12 +8,3 @@ This is an attempt to bridge that gap and give them a jump start to this beautif
 Coz y'all know how scientific papers are written... ;)
 
 ---
-title: This will be used as the title-tag of the page head
----
-
-# This is a H1
-
-[the clickable text](http://xlson.com/)
-
-* Bullet lists are also easy to create
-* One more
