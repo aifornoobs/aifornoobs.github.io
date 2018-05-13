@@ -1,4 +1,4 @@
-# testing index.md
+# What do we do here?
 This blog focuses on explaining the concepts of AI using simple analogous examples. 
 
 AI is fast moving field. And the only way to keep up is to follow various researcher's work. For a person who has entered this field, they would feel like they got hit by a bus. 
