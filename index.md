@@ -8,3 +8,5 @@ This is an attempt to bridge that gap and give them a jump start to this beautif
 Coz y'all know how scientific papers are written... ;)
 
 ---
+
+# [How can artificial intelligence be used to combat false news reports?] (https://github.com/aifornoobs/aifornoobs.github.io/edit/master/combat_fake_news.md)
