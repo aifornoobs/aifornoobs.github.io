@@ -6,3 +6,14 @@ AI is fast moving field. And the only way to keep up is to follow various resear
 This is an attempt to bridge that gap and give them a jump start to this beautiful yet scary world of AI. This is what I wished for when I started out reading papers and understanding concepts. 
 
 Coz y'all know how scientific papers are written... ;)
+
+---
+title: This will be used as the title-tag of the page head
+---
+
+# This is a H1
+
+[the clickable text](http://xlson.com/)
+
+* Bullet lists are also easy to create
+* One more
