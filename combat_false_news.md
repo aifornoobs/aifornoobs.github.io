@@ -1,6 +1,6 @@
 # How can artificial intelligence be used to combat false news reports?
 
-![fake_news_meme][https://i.imgflip.com/1ikfqd.jpg]
+![fake_news_meme](https://i.imgflip.com/1ikfqd.jpg)
 
 Any AI needs data and an algorithm to analyze and predict about anything. Neural networks are amazing in finding correlations among the data. But, news can be about anything and analyzing, understanding and judging the same becomes a difficult task. In fact, this situation falls in the lines of “general intelligence” which is still under research.
 
