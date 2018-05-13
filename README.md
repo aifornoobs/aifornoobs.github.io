@@ -1,5 +1,7 @@
-This blog focuses on explaining the concepts of AI using simple analogous examples.
-AI is fast moving field. And the only way to keep up is to follow various researcher's work. For a person who has entered this field, they would feel like they got hit by a bus.
-This is an attempt to bridge that gap and give them a jump start to this beautiful yet scary world of AI.
-This is what I wished for when I started out reading papers and understanding concepts. 
-Coz y'all know how scientific papers are written...
+AI is indeed a fast moving field. A state-of-the-art model this year becomes obselete the next year. And the only way to keep up is to follow various researcher's work. If you have just entered this field and tried to read a paper, you would feel little uncomfortable due to various reasons.
+
+This is an attempt to bridge this gap by explaing the concepts in the most simple way by giving various examples.
+Then we'll start the math behind the concept. No, you are not allowed to skip the math. It's important. Everywhere.
+
+And this is something I wished for when I started out reading papers and understanding concepts. 
+Coz y'all know how scientific papers are written... ;)
