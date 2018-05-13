@@ -9,4 +9,5 @@ Coz y'all know how scientific papers are written... ;)
 
 ---
 
-# [How can artificial intelligence be used to combat false news reports?] (https://github.com/aifornoobs/aifornoobs.github.io/edit/master/combat_fake_news.md)
+# How can artificial intelligence be used to combat false news reports? 
+[Click here](https://github.com/aifornoobs/aifornoobs.github.io/edit/master/combat_fake_news.md)
